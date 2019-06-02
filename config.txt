@@ -1,7 +1,7 @@
-?token=NTgzMDU4OTk2Mjk0OTc1NDk3.XPQl2w.Y324mjyAgIA6Ij6LhT0G0szXTC0
+?token=NTg0ODM5MDg4OTczMDIxMTg0.XPQv4g.YLMvY4yyi6iz57fuardiJ3SaW9w
 owner=526385469903077376
-prefix=2
+prefix=3
 game=.?.?.
 stayinchannel=true
 songinstatus=false
-token=NTgzMDU4OTk2Mjk0OTc1NDk3.XPQl2w.Y324mjyAgIA6Ij6LhT0G0szXTC0
+token=NTg0ODM5MDg4OTczMDIxMTg0.XPQv4g.YLMvY4yyi6iz57fuardiJ3SaW9w
